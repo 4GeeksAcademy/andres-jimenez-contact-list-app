@@ -35,7 +35,7 @@ export default function ContactCard({ contact, onEdit, onDelete }) {
       <div className="container">
         <div className="row mt-6 border rounded shadow p-4">
           <div className="col d-flex justify-content-center">
-            <img src="https://lh3.googleusercontent.com/-6cVLWeP6joE/AAAAAAAAAAI/AAAAAAAAAAc/gIcBMZo1R7E/photo.jpg" className="rounded-circle border border-black" />
+            <img src="https://d1tq3fcx54x7ou.cloudfront.net/uploads/store/tenant_161/templateswidget/6297/image/large-786aa0343b9add269e1f75882f6af207.png" className="rounded-circle" />
           </div>
 
           <div className="col align-self-center">
